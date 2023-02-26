@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+
+
+body {
+  height:100%;
+width: auto;
+overflow-x: hidden;
+margin :0%;
+background-color: #fff5cb;
+}
+
+
+html {
+  
+  scroll-behavior: smooth;
+  
+}
+
+nav {
+  width: 100%;
+  height: 16vh;
+  background-color:black ;
+  color: white;
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.8)),url('/5244.jpg');
+  background-size: cover;
+}
+
+nav ul {
+  
+  display:flex;
+  align-items: center;
+  justify-content: center ;
+  gap: 7vh;
+}
+
+.brand {
+  
+  padding-right: 4vw;
+  font-family: "Quicksand" , Sans-Serif;
+  font-size: 12vw;
+  color: #fff5cb;
+}
+
+nav ul li {
+  padding-top: 5vw;
+  list-style: none;
+  
+}
+
+nav ul li a {
+  font-size: 4vw;
+  text-decoration: none;
+  color:white;
+}
+
+.fil {
+ 
+  
+  padding: 7vw;
+  text-align: center;
+}
+
+.fil a {
+  
+  background-color: black ;
+  border: 2vw solid black;
+  padding:2vw ;
+  text-decoration: none;
+  color: white;
+  border-radius: 4vw;
+  font-size: 4vw;
+  
+}
+
+.fil a:hover {
+  
+  background-color: white ;
+  border: 2vw solid white;
+  padding:2vw ;
+  text-decoration: none;
+  color: black;
+  border-radius: 4vw;
+  font-size: 4vw;
+  
+}
+
+
+.foreword {
+  
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.8)),url('/5245.jpg');
+  background-size: cover;
+  color:white;
+  text-align: center;
+  font-style: bold;
+  font-weight: 20vw;
+  padding-bottom: 4vw;
+  padding-top:4vw;
+  font-size: 5vw;
+  font-family: "Quicksand" , Sans-Serif;
+  
+}
+
+
+.inner{
+  
+  width:100vw;
+  
+}
+
+.heads {
+  
+  font-family: "Quicksand" , Sans-Serif;
+  font-size: 8vw;
+  color: antiquewhite;
+  font-weight: 4rem;
+  
+}
+
+
