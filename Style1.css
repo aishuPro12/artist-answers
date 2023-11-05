@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
+
+body{
+
+  transition-duration: 4s ;
+
+}
+
+
 @media ( max-width: 844px ) {
   
 
@@ -67,7 +75,7 @@ nav ul li a {
 .fil {
  
   
-  padding: 7vw;
+  padding: 4cqi;
   text-align: center;
   transition-duration: 4s;
 }
